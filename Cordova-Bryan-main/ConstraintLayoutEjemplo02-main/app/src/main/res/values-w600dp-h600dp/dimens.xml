@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_cuerpo">32sp</dimen>
+    <dimen name="text2">32sp</dimen>
+    <dimen name="text3">30sp</dimen>
+</resources>
